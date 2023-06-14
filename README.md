@@ -1,2 +1,2 @@
-# AluraBooks2A
+# AluraBooks2AGiovanna
 Site desenvolvido nas aulas de matemática II.
